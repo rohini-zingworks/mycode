@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>Rohini Nagtilak</h1>
       <p>Learn CI/CD for react</p>
+      <p>Learn CI/CD for react</p>
     </div>
   );
 }
