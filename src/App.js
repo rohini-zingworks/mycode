@@ -8,6 +8,7 @@ function App() {
       <p>Learn CI/CD for react</p>
       <p>Learn CI/CD for react</p>
       <p>Learn CI/CD for react</p>
+      <p>Komal</p>
     </div>
   );
 }
